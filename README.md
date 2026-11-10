@@ -49,7 +49,7 @@ Metric availability depends on the columns and information provided in the uploa
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR_USERNAME/manufacturing-performance-engine.git
+git clone https://github.com/yaminisrdhr/manufacturing-performance-engine.git
 
 Navigate to the project directory:
 
